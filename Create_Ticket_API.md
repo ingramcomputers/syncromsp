@@ -21,6 +21,7 @@ API Permissions - Make sure you have these checked
 - Tickets - Create
 - Ticket Comments - New
 - Ticket Timers - Overview
+- Timelogs - Manage
 
 There might be more permissions needed. It is common sense figuring out which ones.
 
