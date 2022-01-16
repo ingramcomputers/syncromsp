@@ -24,3 +24,4 @@ API Permissions - Make sure you have these checked
 
 There might be more permissions needed. It is common sense figuring out which ones.
 
+I used the examples at https://gist.github.com/theinventor/f765c14ee5cda25a0e94df00dc61ffae to create this script. Much of it is copied. Just trying to make it easier.
