@@ -44,3 +44,6 @@ $InstallLocation = "C:\Program Files (x86)\smartmontools\bin"
         $envPaths = $envPaths + $InstallLocation | where { $_ }
         $env:Path = $envPaths -join ';'
     }
+
+$refresh = "C:\Program Files\RepairTech\Syncro\kabuto_app_manager\bin\RefreshEnv.cmd"
+& $refresh
